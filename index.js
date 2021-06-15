@@ -25,6 +25,4 @@ app.listen(PORT, () => {
         useNewUrlParser: true,
         useUnifiedTopology: true
     });
-
-
 })
