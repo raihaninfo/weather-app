@@ -3,7 +3,7 @@ html, body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background: #D8FED7;
+    background: #DFF4DE;
 }
 
 #left {
@@ -14,7 +14,7 @@ html, body {
 #right {
     width: 50%;
     min-height: 100vh;
-    background: palegreen;
+    background: #afffcc;
 }
 
 #branding {
