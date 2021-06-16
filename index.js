@@ -1,3 +1,8 @@
+/**
+ * Project Name: Weather check app;
+ * author: Md Abu Raihan;
+ * 
+ */
 const express = require('express')
 const cors = require('cors')
 const BodyParser = require('body-parser')
